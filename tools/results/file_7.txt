@@ -1,0 +1,86 @@
+-op c-container"   id="8" tpl="ecl_koubei2" mu="http://koubei.baidu.com/?fm=koubei_left" data-op="{'y':'7F7EFACF'}" data-click="{'p1':'8','rsv_bdr':'0','fm':'alop',rsv_stl:'0'}">
+            
+<h3 class="t">
+    <a href="http://www.baidu.com/link?url=af7QFPT09r7w1rpMDzCPrdJOXqweu7zDIdA4C4fWNhPvR1pL3LAnuQ5VV-IUWnFp" target="_blank"><em>豆瓣</em>_网民真实评价_点评_口碑_服务_百度口碑</a></h3>
+
+        <style>
+    .op-koubei2-tag {color:#666;}
+    .op-koubei2-tag a {color:#666;}
+    .op-koubei2-comt span {color:#666;}
+    .op-koubei2-table {width:100%;}
+    .op-koubei2-table .op-koubei2-table-title {width:320px;}
+    .op-koubei2-table .op-koubei2-table-username {color:#666;}
+    .op-koubei2-table .op-koubei2-table-time {color:#666;text-align:right;}
+    .op-koubei2-table span {color:#666;}
+</style>
+<div class="op-koubei2-main">
+    <div class="op-koubei2-tag"><i class="c-icon c-icon-star-gray"><i class="c-icon c-icon-star" style="width:87%;"></i></i>&nbsp;&nbsp;<a target="_blank" href="http://koubei.baidu.com/s/douban.com">87%好评</a>&nbsp;-&nbsp;<a target="_blank" href="http://koubei.baidu.com/s/douban.com">2184条评论</a>&nbsp;-&nbsp;<a target="_blank" href="http://koubei.baidu.com/s/douban.com#18">内容丰富</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="http://koubei.baidu.com/s/douban.com#8699">风格清新文艺</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a target="_blank" href="http://koubei.baidu.com/s/douban.com#159">内容好</a></div>
+    <div class="op-koubei2-comt">
+        <ol>
+                    <li><span>最佳评论：</span>文艺青年的好去处，各种达人，而且真的是有水准有节操的。<em>豆瓣</em>内容高大上，页面设计低调奢华有内涵，不见广告又处处广告的境界，绝非一般...</li>
+                </ol>
+    </div>
+</div>
+<p class="c-showurl"><span class="c-showurl">koubei.baidu.com/s/douban.com  2016-04-23 </span><span class="c-tools" id="tools_13391057916159925682_8" data-tools="{title:'豆瓣',url:'http://koubei.baidu.com/s/douban.com'}"><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></span>    <span class="c-trust-as vstar" data_key="" hint-data='{"label":"北京百度网讯科技有限公司","url":"https://www.baidu.com/s?wd=koubei.baidu.com@v&vmp_ec=843e88c91a18e49083a90e0decd43lW208jbaStab9s86479=54dbidcWJ9Sdk5Yc258lJ9X1v2X488dcafed3ea&vmp_ectm=1461385804&from=commercialaladdin","hint":[{"txt":"[ecard 127]","vlevel":"3"}]}' hint-type="vstar">
+        <a href="https://www.baidu.com/s?wd=koubei.baidu.com@v&vmp_ec=843e88c91a18e49083a90e0decd43lW208jbaStab9s86479=54dbidcWJ9Sdk5Yc258lJ9X1v2X488dcafed3ea&vmp_ectm=1461385804&from=commercialaladdin" class="c-icon c-icon-v c-icon-v3" target="_blank" data-click="{'title':'vstar','rsv_vlevel':'3'}" ></a>
+    </span>
+</p>
+<script data-compress="off">
+A.setup({
+    trustUrl: 'https://sp1.baidu.com/6KYTfyq72xB3otqbppnN2DJv'
+});
+</script>
+<script data-merge>
+A.init(function () {
+    var card = this;
+    var data = card.data;
+
+    var LOG_TPL = data.trustUrl + '/v.php?tag=#{tag}&baiduid=#{baiduid}&tn=#{tn}&q=#{q}&qid=#{qid}';
+
+    // 日志图片
+    var logImg = new Image();
+
+    /**
+     * 获取cookie
+     * @param   {string}    name    cookie名称
+     * @returns {string}    值
+     */
+    function getCookie(name) {
+        var r = document.cookie.match("\\b" + name + "=([^;]*)\\b");
+        return r ? r[1] : undefined;
+    }
+
+    /**
+     * 展示时向后段发送请求数据
+     * @param   {string}    tag    tag统计字段
+     */
+    function sendLog(tag) {
+        var baiduid = encodeURIComponent(getCookie('BAIDUID'));
+        var qid     = encodeURIComponent(bds.comm.queryId);
+        var tn      = encodeURIComponent(bds.comm.tn);
+        var q       = bds.comm.queryEnc;
+
+        var src = $.format(LOG_TPL, {
+            tag: tag,
+            qid: qid,
+            baiduid: baiduid,
+            tn: tn,
+            q: q
+        });
+
+        logImg.src = src;
+    }
+
+    card.dispose = function() {
+        logImg = null;
+    };
+
+    // 初始化
+    function init() {
+        // 展现日志
+        sendLog('koubei2pv');
+    }
+    
+    init();
+});  
+</script>

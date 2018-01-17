@@ -1,0 +1,20 @@
+c-container " id="3" srcid="1599" tpl="se_com_default"  data-click="{'rsv_bdr':'0' }"  ><h3 class="t"><a 
+	        data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1C4',
+			'F2':'4CA6DD6B',
+			'F3':'54E5243F',
+			'T':'1461387860',
+						'y':'BCF1FE5F'
+			 
+									}"
+        href = "http://www.baidu.com/link?url=0ENOfz61qJfA4J0nmBqTkGY63MjF1GROgchWZNrikhcqpV1wf8LA4lPgfWro4NQ5"
+
+		            target="_blank"
+        		
+		><em>豆瓣</em>读书</a></h3><div class="c-row c-gap-top-small"><div class="general_image_pic c-span6"><a class="c-img6" style="height:75px"
+          href="http://www.baidu.com/link?url=0ENOfz61qJfA4J0nmBqTkGY63MjF1GROgchWZNrikhcqpV1wf8LA4lPgfWro4NQ5"
+                target="_blank"
+      ><img class="c-img c-img6" src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2921348608,4029632584&fm=96"  style="height:75px;" /></a></div><div class="c-span18 c-span-last"><div class="c-abstract">记录你读过的、想读和正在读的书,顺便打分,添加标签及个人附注,写评论。根据你的口味,推荐适合的书给你。</div><div class="f13"><a target="_blank" href="http://www.baidu.com/link?url=0ENOfz61qJfA4J0nmBqTkGY63MjF1GROgchWZNrikhcqpV1wf8LA4lPgfWro4NQ5" class="c-showurl" style="text-decoration:none;">book.<b>douban</b>.com/&nbsp;</a><div class="c-tools" id="tools_7605507441018252597_3" data-tools='{"title":"豆瓣读书 ","url":"http://www.baidu.com/link?url=0ENOfz61qJfA4J0nmBqTkGY63MjF1GROgchWZNrikhcqpV1wf8LA4lPgfWro4NQ5"}'><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></div><span class="c-icons-outer"><span class="c-icons-inner"></span></span>&nbsp;-&nbsp;<a data-click="{'rsv_snapshot':'1'}" href="http://cache.baiducontent.com/c?m=9d78d513d9d431ab4f9d9f697d14c0116a40c72362d88a5339968449e07946111a3bbaac2755465994952f3b16af3e0db7af2b&p=937fc54ad5c346ed0fa8c7710f4491&newp=8c79c80e85cc43ef08e2977e0a4f9f231610db2151d4d6123f&user=baidu&fm=sc&query=%B6%B9%B0%EA&qid=8026d356001bad7c&p1=3" 
+                        target="_blank" 
+                    class="m">百度快照</a><span>&nbsp;-&nbsp;<a href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D0ENOfz61qJfA4J0nmBqTkGY63MjF1GROgchWZNrikhcqpV1wf8LA4lPgfWro4NQ5&jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E8%B1%86%E7%93%A3%03%E8%AF%BB%E4%B9%A6%01%20%01%26q%3D%B6%B9%B0%EA&key=surl" target="_blank" class="m" data-click="{'rsv_comments':'1'}">89%好评</a></span></div></div></div><div class="c-gap-top c-recommend" style="display:none;" data-extquery="豆瓣读书推荐书单&nbsp;豆瓣评分最高的小说&nbsp;豆瓣读书top100&nbsp;"><i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a href="/s?wd=%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6%E6%8E%A8%E8%8D%90%E4%B9%A6%E5%8D%95&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣读书推荐书单</a><a href="/s?wd=%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E6%9C%80%E9%AB%98%E7%9A%84%E5%B0%8F%E8%AF%B4&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣评分最高的小说</a><a href="/s?wd=%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6top100&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank">豆瓣读书top100</a></div>

@@ -1,0 +1,17 @@
+c-container " id="7" srcid="1599" tpl="se_com_default"  data-click="{'rsv_bdr':'0' }"  ><h3 class="t"><a 
+	        data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1C4',
+			'F2':'4CA6DD6B',
+			'F3':'54E5243F',
+			'T':'1461387860',
+						'y':'4D5FF7F7'
+			 
+									}"
+        href = "http://www.baidu.com/link?url=ef5XEqbMYX-mFalEEnzJmv8WF3O4MjL3R0hjwOvgfax-tmIPkJM_0lS-R-yB9BvL"
+
+		            target="_blank"
+        		
+		><em>豆瓣</em>同城_北京</a></h3><div class="c-abstract">提供北京本地所有音乐、戏剧、讲座、聚会、旅行等线下活动的资讯,并能根据你的口味推荐好活动给你,帮助你结识志同道合的人</div><div class="f13"><a target="_blank" href="http://www.baidu.com/link?url=ef5XEqbMYX-mFalEEnzJmv8WF3O4MjL3R0hjwOvgfax-tmIPkJM_0lS-R-yB9BvL" class="c-showurl" style="text-decoration:none;">beijing.<b>douban</b>.com/&nbsp;</a><div class="c-tools" id="tools_15043901337402664391_7" data-tools='{"title":"豆瓣同城_北京","url":"http://www.baidu.com/link?url=ef5XEqbMYX-mFalEEnzJmv8WF3O4MjL3R0hjwOvgfax-tmIPkJM_0lS-R-yB9BvL"}'><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></div><span class="c-icons-outer"><span class="c-icons-inner"></span></span>&nbsp;-&nbsp;<a data-click="{'rsv_snapshot':'1'}" href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece7631046803d410fdc362bd7a7432293c31bcf735b36163bbca633674d4485ca6b1705b83957fd8034654070&p=c2759a46d6c01cf710be9b7c1707bb&newp=8b2a975e86cc42af5bb0c1365759cf231610db2151dcd30e&user=baidu&fm=sc&query=%B6%B9%B0%EA&qid=8026d356001bad7c&p1=7" 
+                        target="_blank" 
+                    class="m">百度快照</a><span>&nbsp;-&nbsp;<a href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Def5XEqbMYX-mFalEEnzJmv8WF3O4MjL3R0hjwOvgfax-tmIPkJM_0lS-R-yB9BvL&jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E8%B1%86%E7%93%A3%03%E5%90%8C%E5%9F%8E%01_%01%E5%8C%97%E4%BA%AC%01%26q%3D%B6%B9%B0%EA&key=surl" target="_blank" class="m" data-click="{'rsv_comments':'1'}">78%好评</a></span></div><div class="c-gap-top c-recommend" style="display:none;" data-extquery="豆瓣约炮&nbsp;豆瓣租房北京&nbsp;豆瓣同城交友&nbsp;三友 苏州&nbsp;58同城&nbsp;"><i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a href="/s?wd=%E8%B1%86%E7%93%A3%E7%BA%A6%E7%82%AE&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣约炮</a><a href="/s?wd=%E8%B1%86%E7%93%A3%E7%A7%9F%E6%88%BF%E5%8C%97%E4%BA%AC&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣租房北京</a><a href="/s?wd=%E8%B1%86%E7%93%A3%E5%90%8C%E5%9F%8E%E4%BA%A4%E5%8F%8B&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣同城交友</a><a href="/s?wd=%E4%B8%89%E5%8F%8B+%E8%8B%8F%E5%B7%9E&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">三友 苏州</a><a href="/s?wd=58%E5%90%8C%E5%9F%8E&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank">58同城</a></div>

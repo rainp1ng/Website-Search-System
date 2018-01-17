@@ -1,0 +1,20 @@
+c-container " id="2" srcid="1599" tpl="se_com_default"  data-click="{'rsv_bdr':'0' }"  ><h3 class="t"><a 
+	        data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1C4',
+			'F2':'4CA6DD6B',
+			'F3':'54E5243F',
+			'T':'1461387860',
+						'y':'3E661EFC'
+			 
+									}"
+        href = "http://www.baidu.com/link?url=BSCHLE7pgzVpT-SjCQOWh_GzS25StrscQzaCFyG0Uztfaw2fILXIbHALUpaeV0LZ"
+
+		            target="_blank"
+        		
+		><em>豆瓣</em>电影</a></h3><div class="c-row c-gap-top-small"><div class="general_image_pic c-span6"><a class="c-img6" style="height:75px"
+          href="http://www.baidu.com/link?url=BSCHLE7pgzVpT-SjCQOWh_GzS25StrscQzaCFyG0Uztfaw2fILXIbHALUpaeV0LZ"
+                target="_blank"
+      ><img class="c-img c-img6" src="https://ss0.baidu.com/73F1bjeh1BF3odCf/it/u=2631395538,1399220256&fm=96&s=F5905993428056F047981C8E010080E0"  style="height:75px;" /></a></div><div class="c-span18 c-span-last"><div class="c-abstract"><em>豆瓣</em>电影提供最新的电影介绍及评论包括上映影片的影讯查询及购票服务。你可以记录想看、在看和看过的电影电视剧,顺便打分、写影评。根据你的口味,<em>豆瓣</em>电影会推荐好...</div><div class="f13"><a target="_blank" href="http://www.baidu.com/link?url=BSCHLE7pgzVpT-SjCQOWh_GzS25StrscQzaCFyG0Uztfaw2fILXIbHALUpaeV0LZ" class="c-showurl" style="text-decoration:none;">movie.<b>douban</b>.com/&nbsp;</a><div class="c-tools" id="tools_10774392141802590013_2" data-tools='{"title":"豆瓣电影 ","url":"http://www.baidu.com/link?url=BSCHLE7pgzVpT-SjCQOWh_GzS25StrscQzaCFyG0Uztfaw2fILXIbHALUpaeV0LZ"}'><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></div><span class="c-icons-outer"><span class="c-icons-inner"></span></span>&nbsp;-&nbsp;<a data-click="{'rsv_snapshot':'1'}" href="http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece76310498a22420397634b818d522f87cf5f93130a1c187bf7fe7a62460bc4b5787071a45e2ce8e74101&p=c2759a46d6c91cf710be9b7c1707bb&newp=8b2a975e86cc42af52b0c1365759cf231610db2151dcda0e&user=baidu&fm=sc&query=%B6%B9%B0%EA&qid=8026d356001bad7c&p1=2" 
+                        target="_blank" 
+                    class="m">百度快照</a><span>&nbsp;-&nbsp;<a href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DBSCHLE7pgzVpT-SjCQOWh_GzS25StrscQzaCFyG0Uztfaw2fILXIbHALUpaeV0LZ&jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E8%B1%86%E7%93%A3%03%E7%94%B5%E5%BD%B1%01%20%01%26q%3D%B6%B9%B0%EA&key=surl" target="_blank" class="m" data-click="{'rsv_comments':'1'}">83%好评</a></span></div></div></div><div class="c-gap-top c-recommend" style="display:none;" data-extquery="豆瓣评分9.0以上&nbsp;豆瓣电影排行榜&nbsp;美人鱼票房&nbsp;猫眼票房分析&nbsp;"><i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a href="/s?wd=%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%869.0%E4%BB%A5%E4%B8%8A&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣评分9.0以上</a><a href="/s?wd=%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E6%8E%92%E8%A1%8C%E6%A6%9C&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣电影排行榜</a><a href="/s?wd=%E7%BE%8E%E4%BA%BA%E9%B1%BC%E7%A5%A8%E6%88%BF&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">美人鱼票房</a><a href="/s?wd=%E7%8C%AB%E7%9C%BC%E7%A5%A8%E6%88%BF%E5%88%86%E6%9E%90&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank">猫眼票房分析</a></div>

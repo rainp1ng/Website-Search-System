@@ -1,0 +1,34 @@
+-op c-container xpath-log"  srcid="91"  fk="豆瓣" id="6" tpl="bk_polysemy" mu="http://baike.baidu.com/view/306024.htm?fr=aladdin" data-op="{'y':'F23D9BBB'}" data-click="{'p1':'6','rsv_bdr':'0','fm':'albk3',rsv_stl:'0'}">
+            
+        <h3 class="t c-gap-bottom-small">
+        <a href="http://www.baidu.com/link?url=qjX1Qu508im0XhbiMYa9h6jA70CkbbA0_4Wk5gv8AeK3pieCHwuJLKoL3GXlC62n6mzq4znHA867YvdW0Q81TSBmNleXW3bZKWDKeihy9TBicUtY0_9agZlTlcANz9LL-tUSFQSh035iTfkoqu7gmq" target="_blank"><em>豆瓣</em>_百度百科</a>
+        </h3>
+        
+        
+    <div class="c-row">
+        	            <div class="c-span24 c-span-last ">
+                                         <p><em>豆瓣</em>（douban）是一个社区网站。网站由杨勃（网名“阿北”） 创立于2005年3月6日。该网站以书影音起家，提供关于书籍、电影、音乐等作品的信息，无论描述还是评...</p>
+                             
+                             <div class=" op-bk-polysemy-other">
+                <span>其他含义:</span>
+                                <span class=" c-gap-left op-bk-polysemy-space"><a class="op-se-listen-recommend" href="http://www.baidu.com/link?url=NdfcTIjc9v1Sdj8vA4uoB0H5ObDmVFTCr3hegfgeuvr6WWWAEVw3Oz_329tqkx1rMXZhdBtZFxXFAFJ_wtogbMY3bxmgL9zOx2Dst89jM7O" target="_blank" >川菜调料</a></span>
+                                <span class=" c-gap-left op-bk-polysemy-space"><a class="op-se-listen-recommend" href="http://www.baidu.com/link?url=NdfcTIjc9v1Sdj8vA4uoB0H5ObDmVFTCr3hegfgeuvr6WWWAEVw3Oz_329tqkx1ryh8WlfahvtGXwmnrR8M3NHFswFIB1o54oX7Y1Zsnwe7" target="_blank" >阅读器</a></span>
+                                </div>
+                            
+                                                <p class="c-gap-left op-bk-polysemy-move"><span class="c-showurl">baike.baidu.com/ </span><span class="c-tools" id="tools_949673074900955850_6" data-tools="{title:'豆瓣_百度百科',url:'http://baike.baidu.com/view/306024.htm?fromid=7803606&amp;type=syn&amp;fromtitle=%E8%B1%86%E7%93%A3&amp;fr=aladdin'}"><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></span></p> 
+        </div>
+            
+    </div>
+       
+       
+                
+        
+
+    
+            
+        
+    <div class="c-gap-top c-recommend" style="display:none;">
+        <i class="c-icon c-icon-bear-circle c-gap-right-small"></i>
+        <span class="c-gray">为您推荐：</span>
+                
+                                                <a target="_blank" href="/s?wd=%E8%B1%86%E7%93%A3%E5%90%8C%E5%9F%8E&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_cq=%E8%B1%86%E7%93%A3&rsv_dl=0_left_bk_polysemy_91_10591" title="豆瓣同城">豆瓣同城</a>                                        <a class="c-gap-left-large" target="_blank" href="/s?wd=%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E6%8E%92%E8%A1%8C%E6%A6%9C&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_cq=%E8%B1%86%E7%93%A3&rsv_dl=0_left_bk_polysemy_91_10591" title="豆瓣评分排行榜">豆瓣评分排行榜</a>                                        <a class="c-gap-left-large" target="_blank" href="/s?wd=%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_cq=%E8%B1%86%E7%93%A3&rsv_dl=0_left_bk_polysemy_91_10591" title="豆瓣评分">豆瓣评分</a>                                        <a class="c-gap-left-large" target="_blank" href="/s?wd=%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E6%9C%80%E9%AB%98%E7%9A%84%E7%94%B5%E5%BD%B1&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_cq=%E8%B1%86%E7%93%A3&rsv_dl=0_left_bk_polysemy_91_10591" title="豆瓣评分最高的电影">豆瓣评分最高的电影</a>                                    </div>

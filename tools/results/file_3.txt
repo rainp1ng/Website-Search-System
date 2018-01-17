@@ -1,0 +1,20 @@
+c-container " id="4" srcid="1599" tpl="se_com_default"  data-click="{'rsv_bdr':'0' }"  ><h3 class="t"><a 
+	        data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1C4',
+			'F2':'4CA6DD6B',
+			'F3':'54E5243F',
+			'T':'1461387860',
+						'y':'F77EDFFF'
+			 
+									}"
+        href = "http://www.baidu.com/link?url=-LYcJm-QHUXm76752OK-uE8pRXStc16q7GG2sbsYOtFveD9tUrx06OWFuMwMFo4K"
+
+		            target="_blank"
+        		
+		><em>豆瓣</em>音乐</a></h3><div class="c-row c-gap-top-small"><div class="general_image_pic c-span6"><a class="c-img6" style="height:75px"
+          href="http://www.baidu.com/link?url=-LYcJm-QHUXm76752OK-uE8pRXStc16q7GG2sbsYOtFveD9tUrx06OWFuMwMFo4K"
+                target="_blank"
+      ><img class="c-img c-img6" src="https://ss0.baidu.com/73F1bjeh1BF3odCf/it/u=1853977353,742400961&fm=96&s=39B2139A40701F90049548B50300B016"  style="height:75px;" /></a></div><div class="c-span18 c-span-last"><div class="c-abstract">记录你想听的、在听和听过的唱片,顺便打分、添加标签及个人附注、写评论。根据你的口味,<em>豆瓣</em>会推荐适合的唱片给你。</div><div class="f13"><a target="_blank" href="http://www.baidu.com/link?url=-LYcJm-QHUXm76752OK-uE8pRXStc16q7GG2sbsYOtFveD9tUrx06OWFuMwMFo4K" class="c-showurl" style="text-decoration:none;">music.<b>douban</b>.com/&nbsp;</a><div class="c-tools" id="tools_3734807406865910113_4" data-tools='{"title":"豆瓣音乐 ","url":"http://www.baidu.com/link?url=-LYcJm-QHUXm76752OK-uE8pRXStc16q7GG2sbsYOtFveD9tUrx06OWFuMwMFo4K"}'><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></div><span class="c-icons-outer"><span class="c-icons-inner"></span></span>&nbsp;-&nbsp;<a data-click="{'rsv_snapshot':'1'}" href="http://cache.baiducontent.com/c?m=9d78d513d9d431ab4f9d9f697d14c0116a40c72362d88a5339968449e079461e0027b8ea302267528e822c345db8492bbbad696f&p=937fc54ad5c347ed0fa8c7710f4491&newp=8c79c80e85cc43ef08e2977e0b4f9f231610db2151d4db173f&user=baidu&fm=sc&query=%B6%B9%B0%EA&qid=8026d356001bad7c&p1=4" 
+                        target="_blank" 
+                    class="m">百度快照</a><span>&nbsp;-&nbsp;<a href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D-LYcJm-QHUXm76752OK-uE8pRXStc16q7GG2sbsYOtFveD9tUrx06OWFuMwMFo4K&jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02%E8%B1%86%E7%93%A3%03%E9%9F%B3%E4%B9%90%01%20%01%26q%3D%B6%B9%B0%EA&key=surl" target="_blank" class="m" data-click="{'rsv_comments':'1'}">94%好评</a></span></div></div></div><div class="c-gap-top c-recommend" style="display:none;" data-extquery="豆瓣FM&nbsp;qq音乐&nbsp;虾米音乐&nbsp;轻音乐鸽子&nbsp;豆瓣电视剧&nbsp;"><i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a href="/s?wd=%E8%B1%86%E7%93%A3FM&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">豆瓣FM</a><a href="/s?wd=qq%E9%9F%B3%E4%B9%90&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">qq音乐</a><a href="/s?wd=%E8%99%BE%E7%B1%B3%E9%9F%B3%E4%B9%90&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">虾米音乐</a><a href="/s?wd=%E8%BD%BB%E9%9F%B3%E4%B9%90%E9%B8%BD%E5%AD%90&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank" class="res-gap-right16">轻音乐鸽子</a><a href="/s?wd=%E8%B1%86%E7%93%A3%E7%94%B5%E8%A7%86%E5%89%A7&rsv_idx=2&tn=baiduhome_pg&usm=2&ie=utf-8&rsv_crq=7&bs=%E8%B1%86%E7%93%A3" target="_blank">豆瓣电视剧</a></div>
