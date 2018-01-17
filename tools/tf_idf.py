@@ -5,10 +5,8 @@
 # ===========================================================
 import json
 from __init__ import debug_flag
-from general_tools import write_file
-from bing_search import bing_search
-from jieba_split import split_word
 from sklearn import feature_extraction
+from website_corpus import get_corpus_list
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 
 
@@ -26,14 +24,13 @@ def tf_idf(split_words_list):
 
 
 if __name__ == '__main__':
-    docs = [
-        '我 今天 心情 很好，但是 看到 不想 看到 的 人 了',
-        '我 今天 心情 很好，且 看到 想 看到 的 人 了',
-        '我 今天 心情 很 不好，但是 看到 想 看到 的 人 了',
-        '我 今天 心情 很 不好，且 看到 不想 看到 的 人 了',
-    ]
-    words, words_weight = tf_idf(docs)
-    for i, x in enumerate(words_weight):
-        for j, y in enumerate(words_weight[i]):
-            print words_weight[i][j]
+    import sys
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+
+
+    # for i, x in enumerate(words_weight):
+    #     for j, y in enumerate(words_weight[i]):
+    #         print words[j], words_weight[i][j]
+    #     raw_input()
 
