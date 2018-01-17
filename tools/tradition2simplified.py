@@ -3,15 +3,19 @@
 # ===========================================================
 # 分词功能封装
 # ===========================================================
-import opencc
+import pyopencc as opencc
 __author__ = 'zhuyuping'
 
 
 def t2s(sentences):
-    cc = opencc.OpenCC('t2s')
+    cc = opencc.OpenCC('zht2zhs.ini')
     return cc.convert(sentences)
 
 
 def s2t(sentences):
-    cc = opencc.OpenCC('s2t')
+    cc = opencc.OpenCC('zhs2zht.ini')
     return cc.convert(sentences)
+
+
+if __name__ == '__main__':
+    print t2s('我')

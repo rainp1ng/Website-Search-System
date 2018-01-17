@@ -80,4 +80,4 @@ def ask_question(question):
 if __name__ == '__main__':
     reload(sys)
     sys.setdefaultencoding('utf-8')
-    server.run(port=8008, debug=True)
+    server.run(host="localhost", port=8018, debug=True)
