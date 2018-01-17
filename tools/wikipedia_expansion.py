@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-#coding=utf-8
+# -*- coding: utf-8 -*-
 # ===========================================================
 # 维基百科词义拓展功能封装
 # ===========================================================
@@ -108,7 +108,10 @@ def get_question_expansion_corpus(question):
 
 
 if __name__ == '__main__':
-    main()
+    import sys
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+    #main()
     # s = u'haha哈哈'
     # ss = '%s ' % s
     # sss = '哈哈' + ss
@@ -123,10 +126,10 @@ if __name__ == '__main__':
     # print 'expansion:', expasion
     # print 'content:', expasion.content
     # print 'done print'
-    # expasion = expand('朱德')
+    # expasion = expand('炒菜')
     # print type(expasion)
     # print expasion
-    # print get_question_expansion_corpus('我在哪里可以吃到海鲜意面')
+    print get_question_expansion_corpus('我在哪里可以吃到海鲜意面')
     # wikipedia.set_lang('zh')
     # s = wikipedia.page('我')
     # print s

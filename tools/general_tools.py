@@ -13,7 +13,6 @@ def get_top_n_website_scores(question, n=5):
     from jieba_split import split_word_only
     from cosine import batch_get_sort_scores
     from wikipedia_expansion import get_question_expansion_corpus
-
     if debug_flag:
         print 'question:', question
 

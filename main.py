@@ -11,4 +11,4 @@ from flask_server.server import server
 if __name__ == '__main__':
     reload(sys)
     sys.setdefaultencoding('utf-8')
-    server.run(port=8008, debug=debug_flag)
+    server.run(port=8018, debug=debug_flag)
